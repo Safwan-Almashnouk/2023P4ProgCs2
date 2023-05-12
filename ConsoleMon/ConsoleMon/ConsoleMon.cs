@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pokemon;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,8 @@ namespace Program
             public int health;
             public int energy;
             public string name;
-            private skills List<skills>;
+            internal Elements weakness;
+            private List<Skill> skills;
 
 
         internal void TakeDamage(int damage)
