@@ -13,8 +13,10 @@ namespace Program
             public int health;
             public int energy;
             public string name;
+            private skills List<skills>;
 
-            internal void TakeDamage(int damage)
+
+        internal void TakeDamage(int damage)
             {
                 health -= damage;
 
