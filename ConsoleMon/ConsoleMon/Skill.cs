@@ -16,6 +16,18 @@ namespace Program
         public string name;
         internal Elements element;
 
+        public Skill()
+        {
+
+        }
+
+        internal Skill(int damage, int energyCost, string name, Elements element)
+        {
+            this.damage = damage;
+            this.energyCost = energyCost;
+            this.name = name;
+            this.element = element;
+        }
 
         internal void UseOn(ConsoleMon tarrget, ConsoleMon caster)
         {
