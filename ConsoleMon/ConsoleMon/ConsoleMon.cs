@@ -17,6 +17,8 @@ namespace Program
             internal Elements weakness;
             private List<Skill> skills;
 
+            
+
         public ConsoleMon()
         {
 

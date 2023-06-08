@@ -10,7 +10,14 @@ namespace Program
             TestConsoleMonFunctions();
             TestSkillFunctions();
             TestConstructors();
+            TestFactoryFunctions();
             
+        }
+        static void TestFactoryFunctions()
+        {
+            Console.WriteLine("TestFactoryFunctions");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            factory.Load("monsterdata.txt");
         }
         static void TestConstructors()
         {
