@@ -11,17 +11,17 @@ namespace Program
     internal class Skill
     {
 
-        public int damage;
-        public int energyCost;
-        public string name;
-        internal Elements element;
+        public int damage { get; set; }
+        public int energyCost { get; set; }
+        public string name { get; set; }
+        internal Elements element { get; set; }
 
         public Skill()
         {
 
         }
 
-        internal Skill(int damage, int energyCost, string name, Elements element)
+        public Skill(int damage, int energyCost, string name, Elements element)
         {
             this.damage = damage;
             this.energyCost = energyCost;
@@ -29,7 +29,7 @@ namespace Program
             this.element = element;
         }
 
-        internal void UseOn(ConsoleMon tarrget, ConsoleMon caster)
+        public void UseOn(ConsoleMon tarrget, ConsoleMon caster)
         {
             caster.DepleteEnergy(energyCost);
             tarrget.TakeDamage(damage);

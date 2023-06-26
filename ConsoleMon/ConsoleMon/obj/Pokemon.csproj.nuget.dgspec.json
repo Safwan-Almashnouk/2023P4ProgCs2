@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj": {}
+    "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode 4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj": {
+    "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode 4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj",
+        "projectUniqueName": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode 4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj",
         "projectName": "Pokemon",
-        "projectPath": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj",
+        "projectPath": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode 4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\Pokemon.csproj",
         "packagesPath": "C:\\Users\\safoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\obj\\",
+        "outputPath": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode 4\\Prog\\2023P4ProgCs2\\ConsoleMon\\ConsoleMon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\safoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
